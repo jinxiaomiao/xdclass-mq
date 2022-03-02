@@ -1,0 +1,12 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«Œ¥ï
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ôµƒıÿÿÿÿ8Ö¼¹¦ô/
+[
+java:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(Ôµƒıÿÿÿÿ8Ø¼¹¦ô/
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8Ù¼¹¦ô/
+g
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8ã¼¹¦ô/
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8ã¼¹¦ô/

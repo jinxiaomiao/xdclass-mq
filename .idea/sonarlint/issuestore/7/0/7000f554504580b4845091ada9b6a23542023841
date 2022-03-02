@@ -1,0 +1,15 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(õàˆí8îúÿ¤ô/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æĞ8ôúÿ¤ô/
+{
+java:S2142("^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8øúÿ¤ô/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ôµƒıÿÿÿÿ8ùúÿ¤ô/
+]	java:S125."<This block of commented-out lines of code should be removed.(£¡Ûˆÿÿÿÿÿ8úúÿ¤ô/
+X	java:S1252"<This block of commented-out lines of code should be removed.(Ğ‡ê•8ûúÿ¤ô/
+[
+java:S47194"9Replace charset name argument with StandardCharsets.UTF_8(Ôµƒıÿÿÿÿ8ıúÿ¤ô/
+g
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8¶¬°¦ô/
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8¶¬°¦ô/
